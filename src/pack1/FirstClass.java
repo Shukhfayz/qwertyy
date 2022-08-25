@@ -6,6 +6,7 @@ public class FirstClass {
 		
 		System.out.println("Hello world!");
 		System.out.println("I am learning the software automation testing");
+		System.out.println("this is third commit");
 	}
 
 }
